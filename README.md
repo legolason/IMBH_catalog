@@ -1,6 +1,6 @@
 ## The intermediate-mass black hole (IMBH) catalog for reverberation mapping 
 
-To fill the IMBH gap, we plan to conduct an IMBH-RM project to precisely measure the black hole masses of a dozen IMBH candidates. This catalog includes 985 broad-line IMBH candidates compiled from previous literature (see references in the catalog). We will keep it updated, with the total number of targets remaining unchanged and additional information appended.
+To fill the IMBH gap, we plan to conduct an IMBH-RM project (PI: Hengxiao Guo) to precisely measure the black hole masses of a dozen IMBH candidates. This catalog includes 985 broad-line IMBH candidates compiled from previous literature (see references in the catalog). We will keep it updated, with the total number of targets remaining unchanged and additional information appended.
 
 
 ### Publications:
